@@ -9,3 +9,5 @@ Environment : Jupyter Notebook
 Libraries and Packages : tensorflow, numpy, matplotlib.pyplot, pickle,
                          tensorflow.keras.models => Sequential,
                          tensorflow.keras.layers => Dense, Dropout, Activation, Flatten, Conv2D, MaxPooling2D
+
+Search words : Image recognition, Machine learning layers, KNN
