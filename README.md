@@ -12,4 +12,4 @@ Libraries and Packages : tensorflow, numpy, matplotlib.pyplot, pickle,
 
 To open the project, you need to run "Google-Landmarks.ipynb" file in Jupyter Notebook environment.
 
-Search words : Image recognition, Machine learning layers, KNN
+Search words : Image recognition, Machine learning neural network layers, KNN
